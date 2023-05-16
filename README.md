@@ -24,16 +24,6 @@
   
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
    </p>
-
-<h3>My projects</h3>
- <a href="https://github.com/Abebe-Nigusu/ChatApp"><b>Chat Application</b></a> <br /> <br />
- <img src="https://github.com/NikitaMears/portfolio/blob/main/photo_2023-05-10_00-28-44.jpg" width="800" height="600" /> 
-<a href="https://github.com/Abebe-Nigusu/EtikitCinema"><b>EticketCinema</b></a> <br /> <br />
- <img src="https://github.com/NikitaMears/portfolio/blob/main/photo_2023-05-10_00-19-40.jpg" width="800" height="600" /> 
- 
- <a href="https://github.com/Abebe-Nigusu/Weather-API"><b>Weather API</b></a> <br /> <br />
- <img src="https://github.com/Abebe-Nigusu/Weather-API/blob/main/flask_app/static/app images/WeatherLogin.png" width="800" height="600" /> 
- <img src="https://github.com/Abebe-Nigusu/Weather-API/blob/main/flask_app/static/app%20images/WeatherAPI.png" width="800" height="600" /> 
  
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Abebe-Nigusu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
