@@ -27,12 +27,12 @@
  <p> 
    <b>Languages</b>: Python, JavaScript, Java, MERN(MongoDB, Express.js, React.js, Node.js <br/>
    <b>Frontend Development</b>: CSS, HTML, ReactJS, Tailwind, jQuery , AJAX, JPA
-  Backend Development: NodeJS, Spring Tool Suite, Security, Express.JS, Flask, Bcrypt, JSP, JSON, npm,  Socket.IO, Spring Boot, Hibernate, Servlets, Tomcat, Apache, Dependency Injection
-    Databases: MySQL, MongoDB, SQLite, MS SQL
-    DevOps: AWS, Bash, Azure, Heroku, Netlify
-    Software: Postman, MySQL Workbench, VS Code, Spring Tool Suite
-  Version Control Systems: Git, Github, Gitlab, Bitbucket, Desktop Git, Source Tree
-    Others: Agile, Scrum, RESTful Architecture & API, MVC, SDLC
+  <b>Backend Development</b>: NodeJS, Spring Tool Suite, Security, Express.JS, Flask, Bcrypt, JSP, JSON, npm,  Socket.IO, Spring Boot, Hibernate, Servlets, Tomcat, Apache, Dependency Injection <br/>
+  <b>Databases</b>: MySQL, MongoDB, SQLite, MS SQL <br/>
+  <b> DevOps</b>: AWS, Bash, Azure, Heroku, Netlify <br/>
+   <b> Software</>: Postman, MySQL Workbench, VS Code, Spring Tool Suite <br/>
+  <b>Version Control Systems</b>: Git, Github, Gitlab, Bitbucket, Desktop Git, Source Tree <br/>
+    <b>Others</b>: Agile, Scrum, RESTful Architecture & API, MVC, SDLC
   </p>
 <h3>Where to find me</h3>
 <p>
