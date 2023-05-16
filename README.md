@@ -25,8 +25,8 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
    </p>
  <p> 
-   <b>Languages</b>: Python, JavaScript, Java, MERN(MongoDB, Express.js, React.js, Node.js
-   Frontend Development: CSS, HTML, ReactJS, Tailwind, jQuery , AJAX, JPA
+   <b>Languages</b>: Python, JavaScript, Java, MERN(MongoDB, Express.js, React.js, Node.js <br/>
+   <b>Frontend Development</b>: CSS, HTML, ReactJS, Tailwind, jQuery , AJAX, JPA
   Backend Development: NodeJS, Spring Tool Suite, Security, Express.JS, Flask, Bcrypt, JSP, JSON, npm,  Socket.IO, Spring Boot, Hibernate, Servlets, Tomcat, Apache, Dependency Injection
     Databases: MySQL, MongoDB, SQLite, MS SQL
     DevOps: AWS, Bash, Azure, Heroku, Netlify
