@@ -24,7 +24,12 @@
   
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
    </p>
- <p> Version Control Systems: Git, Github, Gitlab, Bitbucket, Desktop Git, Source Tree
+ <p> 
+  Backend Development: NodeJS, Spring Tool Suite, Security, Express.JS, Flask, Bcrypt, JSP, JSON, npm,  Socket.IO, Spring Boot, Hibernate, Servlets, Tomcat, Apache, Dependency Injection
+    Databases: MySQL, MongoDB, SQLite, MS SQL
+    DevOps: AWS, Bash, Azure, Heroku, Netlify
+    Software: Postman, MySQL Workbench, VS Code, Spring Tool Suite
+  Version Control Systems: Git, Github, Gitlab, Bitbucket, Desktop Git, Source Tree
     Others: Agile, Scrum, RESTful Architecture & API, MVC, SDLC
   </p>
 <h3>Where to find me</h3>
