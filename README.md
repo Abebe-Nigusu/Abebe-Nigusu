@@ -24,7 +24,9 @@
   
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
    </p>
- 
+ <p> Version Control Systems: Git, Github, Gitlab, Bitbucket, Desktop Git, Source Tree
+    Others: Agile, Scrum, RESTful Architecture & API, MVC, SDLC
+  </p>
 <h3>Where to find me</h3>
 <p>
     <a href="https://www.linkedin.com/in/abebe-nigusu-0b4b5a275/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
