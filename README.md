@@ -9,11 +9,10 @@
  <p>•  Passionate Full Stack Developer with a talent for problem-solving and innovative solutions using various programming languages and tools.</p>
  <p>•  Thrive on the challenge of building something new from scratch and constantly learning and adapting to new technologies.</p>
  <p>• Enjoy working collaboratively on various aspects of a project from front-end design to back-end functionality, providing a holistic understanding and enabling informed decision-making.</p>
- <p>• Believe Full Stack Development is the perfect field for anyone interested in technology and enjoys problem-solving, offering a fulfilling experience of taking an idea from conception to completion.</p>  
+ <p>• Believe Full Stack Development is the perfect field for anyone interested in technology and enjoys problem-solving, offering a fulfilling experience of taking an idea from conception to completion.</p> 
  
+  <h3>Languages and Tech tools I code with</h3>
  <p>
- <h3>Languages and Tech tools I code with</h3>
-
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
