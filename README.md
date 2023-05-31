@@ -2,8 +2,6 @@
 
 
 <p>Welcome to my page! </br> I'm Abebe, Fullstack developer currently living in <b>Minnesota, USA</b>. </p>
-
-<p>
   
  <p>In my 4+ years of MuleSoft Developer Experience, and as well trained Full Stack developer:  </p>
  <p>•  Designed and implemented Mule ESB core platform components for API/Services Gateway and contributed to the open-source.</p>
@@ -13,6 +11,7 @@
  <p>• Enjoy working collaboratively on various aspects of a project from front-end design to back-end functionality, providing a holistic understanding and enabling informed decision-making.</p>
  <p>• Believe Full Stack Development is the perfect field for anyone interested in technology and enjoys problem-solving, offering a fulfilling experience of taking an idea from conception to completion.</p>  
  
+ <p>
  <h3>Languages and Tech tools I code with</h3>
 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
